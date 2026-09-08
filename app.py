@@ -1,4 +1,3 @@
-```python
 import os
 import io
 import hashlib
@@ -560,4 +559,3 @@ if question:
             "content": answer
         }
     )
-```

@@ -1,0 +1,3 @@
+build and HR policy assistant using RAG with Streamlit, FAISS, sentence transformers, PyMUPDF and Groq (openai / gpt-oss-20b) where users upload an HR policy
+PDF ans ask questions, give code of app.py , requiremetns.txt, README.md and .gitignore then guide me to deploy it through 
+Github - > streamlit cloud without colab, vs code or terminal
